@@ -1,0 +1,20 @@
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe.config
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\bin\Debug\MyExplorer.pdb
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csprojAssemblyReference.cache
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.MyExplorer.resources
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.Properties.Resources.resources
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.GenerateResource.cache
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.CoreCompileInputs.cache
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.exe
+D:\P\$rc_code\!\C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.pdb
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe.config
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\bin\Debug\MyExplorer.pdb
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csprojAssemblyReference.cache
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.MyExplorer.resources
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.Properties.Resources.resources
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.GenerateResource.cache
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.CoreCompileInputs.cache
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.exe
+D:\Data\$Work\[ HOMEWORK ]\Y2S2 - C#\C# - BT4 - Ngo Van Anh Tuan\MyExplorer\MyExplorer\obj\Debug\MyExplorer.pdb
