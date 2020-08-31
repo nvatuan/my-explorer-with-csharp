@@ -13,12 +13,12 @@ The code in the above project is definitely the Core for this project, but not e
 
 ## Some photos
 
-### Start up
 Default location is `D:\` if none were mentioned (via the cmd). There were some sample files to check if it works.
 <p align='center'>
 <img src='https://user-images.githubusercontent.com/24392632/91754481-ac637180-ebf3-11ea-9b55-a6d9d6fa5cd1.png' alttext = '/home/'>
 </p>
-My ~~p1r4t3d~~ films directory.
+
+~~My pirated~~ A dummy directory acts as a movie directory if i have one :)
 
 <p align='center'>
 <img src='https://user-images.githubusercontent.com/24392632/91754589-e03e9700-ebf3-11ea-8489-4ad90a70fc09.png' alttext = '/tv/'>
@@ -27,7 +27,7 @@ My ~~p1r4t3d~~ films directory.
 My music directory.
 
 <p align='center'>
-<img src='https://user-images.githubusercontent.com/24392632/91754634-f51b2a80-ebf3-11ea-9529-b7d06be9108d.png' alttext = '/mu/>
+<img src='https://user-images.githubusercontent.com/24392632/91754634-f51b2a80-ebf3-11ea-9529-b7d06be9108d.png' alttext = '/mu/'>
 </p>
 
 I was quite happy with the results already, so I didn't want to make any modification. I would have added something more every now and then only if i dont DISLIKE C# that much.
