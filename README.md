@@ -4,7 +4,7 @@ This was one of my optional homework. Even though it was simple, it is one of my
 
 This runs on Windows only. Haven't tested it on Linux before and i doubt it could work.
 
-## The code that deal internally
+## The code that dealt internally
 I used extensively the Directory and Path namespace. Wrote some 1~2 depth BFS for manual browsing, Wrote a DFS for quick cd (type a valid path on the address bar),..
 
 I actually wrote a small CLI tool that uses some of the C# Dir/Path tools before developing its GUI. You could check it out [here](https://github.com/nvatuan/codedump/blob/master/FileUtility/FileBrowser_CSharp/FileBrowser.cs)
